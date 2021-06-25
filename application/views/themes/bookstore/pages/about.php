@@ -91,17 +91,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
               <span class="flaticon-diet"></span>
         </div>
         <div class="media-body">
-          <h3 class="heading">Selalu Segar</h3>
-          <span>Dipetik Langsung dari Kebun</span>
-        </div>
-      </div>    
-    </div>
-    <div class="col-md-3 text-center d-flex align-self-stretch ftco-animate">
-      <div class="media block-6 services mb-md-0 mb-4">
-        <div class="icon bg-color-3 d-flex justify-content-center align-items-center mb-2">
-              <span class="flaticon-award"></span>
-        </div>
-        <div class="media-body">
           <h3 class="heading">Kualitas Terbaik</h3>
           <span>Kualitas dari Pertanian Terbaik</span>
         </div>
