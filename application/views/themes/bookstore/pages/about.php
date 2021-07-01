@@ -26,7 +26,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
             <div class="pb-md-5">
                 <p><?php echo get_settings('store_description'); ?></p>
-                          <p><a href="<?php echo site_url('browse'); ?>" class="btn btn-primary">Belanja sekarang!</a></p>
+                          <p><a href="<?php echo site_url('home'); ?>" class="btn btn-primary">Belanja sekarang!</a></p>
                       </div>
                   </div>
               </div>
